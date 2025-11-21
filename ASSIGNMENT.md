@@ -6,9 +6,9 @@ You'll work with `mini-arke`, a simplified version of our manufacturing manageme
 
 **The goal**: Get a sense of your coding skills, problem-solving approach, and how you work with existing codebases. We want to see how you'd tackle a real feature in our async/remote environment.
 
-**Important**: Treat this as production code that needs to ship. Write clean, maintainable code that follows the patterns already in the project. Don't overthink it—just do what you'd normally do on the job!
+**Important**: Treat this as production code that needs to ship. Write clean, maintainable code that follows the patterns already in the project. Don't overthink it, just do what you'd normally do on the job!
 
-**Time expectation**: Our appetite for this feature is 2 hours. We value your time and designed this to be completable within that timeframe. Please don't spend significantly more time on it—we need to see some code, but we don't want to take up too much of your time. When submitting, let us know roughly how long you spent (no penalty if you go over, we'd just like to know!) 🙌
+**Time expectation**: Our appetite for this feature is 2 hours. We value your time and designed this to be completable within that timeframe. Please don't spend significantly more time on it, we need to see some code, but we don't want to take up too much of your time. When submitting, let us know roughly how long you spent (no penalty if you go over, we'd just like to know!) 🙌
 
 ### What you need to implement
 
