@@ -33,7 +33,7 @@ Order ID,Customer Name,Customer Email,Order Date,Status,Total Amount
 1. Fork this repository into a **private repository** named `mini-arke`
 2. Implement the CSV export endpoint
 3. Ensure `make test` passes
-4. Add `@arke-cc` as collaborator to your private repo
+4. Add `@ilpes` as collaborator to your private repo
 5. Send us the link to your private repository
 
 ## What comes next?
