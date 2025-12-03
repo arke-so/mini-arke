@@ -25,6 +25,7 @@ func setupTestHandler(t *testing.T) (*Handler, *echo.Echo, func()) {
 	handler := NewHandler(productService)
 
 	e := echo.New()
+	RegisterHandlers(e, handler)
 
 	// Add OpenAPI validation middleware
 	swagger, err := GetSwagger()
